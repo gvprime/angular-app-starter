@@ -1,5 +1,5 @@
 # Angular Starter
-My ready starter project for Angular (2 and beyond). This project comes with some basic features of every app, such as authentication, password reset, profile editing, public page etc. In addition to following good usability practices, it implements the principles of Material Design using MaterializeCSS.
+My extensible and modular ready starter project for Angular (2 and beyond). This project comes with some basic features of every app, such as authentication, password reset, profile editing, public page etc. In addition to following good usability practices, it implements the principles of Material Design using Angular Material and MaterializeCSS.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
 
