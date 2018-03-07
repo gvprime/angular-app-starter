@@ -1,0 +1,24 @@
+<style>
+  .box-wrapper {
+    display: table;
+    margin: auto;
+    height: 100%;
+  }
+
+  .box {
+    display: table-cell;
+    vertical-align: middle;
+  }
+
+  .box-content {
+    padding: 20px;
+    width: 300px;
+  }
+</style>
+<div class="box-wrapper">
+  <div class="box">
+    <div class="box-content mat-elevation-z8">
+      <ng-content></ng-content>
+    </div>
+  </div>
+</div>
