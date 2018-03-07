@@ -3,9 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-register-container',
   template: `
-    <p>
-      register-container works!
-    </p>
+    <app-register></app-register>
   `,
   styles: []
 })
